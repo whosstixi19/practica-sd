@@ -27,8 +27,8 @@ function createApp() {
     res.status(200).send(
       '<html><body style="font-family: sans-serif; background:' + APP_COLOR +
       '; color:white; text-align:center; padding-top:80px;">' +
-      '<h1>Sistemas Distribuidos - Cristian Timbi</h1>' +
-      '<h2>Version desplegada: ' + APP_VERSION + '</h2>' +
+      '<h1>Sistemas Distribuidos - Jose Tixi</h1>' +
+      '<h2>Version modificada: ' + APP_VERSION + '</h2>' +
       '<p>Pod: ' + os.hostname() + '</p>' +
       '</body></html>'
     );
